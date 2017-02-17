@@ -1,2 +1,2 @@
 # MulticycleCPU
-A Multicycle MIPS CPU written in Verilog
+A multicycle MIPS CPU written in Verilog
